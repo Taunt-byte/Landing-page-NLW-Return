@@ -3,7 +3,7 @@
     <img src="img/Logo.png" height="150" width="175" alt="Unform" />
   </a>
 </p>
-<h1 align="center">WebSite Medico</h1> 
+<h1 align="center">Landing page hospitalar</h1> 
 
 <p align="center">Trilha da Rocketseat</p>
 
@@ -23,7 +23,7 @@ Tabela de conteúdos
 
 ## Sobre
 
-Website feito em conjunto com a trilha NLW Return feita pela Rockeatseat no ano de 2022 dos dias 01/05/22 até o dia 08/05/22.
+Landing page feito em conjunto com a trilha NLW Return feita pela Rockeatseat no ano de 2022 dos dias 01/05/22 até o dia 08/05/22.
 
 ## Imagens
 
@@ -35,7 +35,7 @@ Website feito em conjunto com a trilha NLW Return feita pela Rockeatseat no ano 
 
 Para instalar basta escrever o codigo abaixo em seu terminal:
 
-    git clone
+    git clone "https://github.com/Taunt-byte/Landing-page-NLW-Return.git"
 
 ## Como usar
 
